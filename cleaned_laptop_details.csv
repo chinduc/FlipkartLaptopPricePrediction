@@ -1,0 +1,721 @@
+,Brand,Ram,Processor,Storage,Screen Size,Operating System,Price
+0,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+1,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+2,ASUS,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,32990
+3,HP,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 10,49990
+4,ASUS,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,49990
+5,HP,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+6,DELL,8,Intel OptaneIntel Core i3 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 11,38990
+7,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+8,realme,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 10,46990
+9,ASUS,16,AMD Ryzen 7 Quad Core Processor,512 GB SSD,35.56,Windows 11,44990
+10,HP,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,59990
+11,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+12,ASUS,8,Intel Core i3 Processor,256 GB SSD,39.62,Windows 11,32990
+13,ASUS,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,43.94,Windows 11,52990
+14,acer,8,Intel Core i3 Processor,256 GB SSD,39.62,Windows 11,29990
+15,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+16,ASUS,8,Intel Core i5 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 11,47990
+17,ASUS,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,45990
+18,MSI,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,47990
+19,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+20,APPLE,8,Apple M1 Processor,256 GB SSD,33.78,Mac OS,88990
+21,HP,8,Intel Core i3 Processor,512 GB SSD,35.56,Windows 11,40990
+22,Lenovo,4,Intel Celeron Dual Core Processor,"256 GB HDD, 256 GB SSD",39.62,DOS,19490
+23,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+24,HP,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,65990
+25,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+26,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+27,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+28,acer,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,58990
+29,realme,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 10,46990
+30,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+31,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+32,acer,8,AMD Ryzen 3 Dual Core Processor,256 GB SSD,39.62,Windows 11,24990
+33,acer,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,47990
+34,ASUS,8,AMD Ryzen 7 Octa Core Processor,512 GB SSD,43.94,Windows 11,73990
+35,Lenovo,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,53490
+36,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+37,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+38,Lenovo,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,51990
+39,ASUS,16,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,66990
+40,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+41,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+42,acer,16,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,51990
+43,HP,8,AMD Athlon Dual Core Processor,256 GB SSD,35.56,Windows 11,25990
+44,acer,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,35990
+45,ASUS,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,43990
+46,Lenovo,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,44990
+47,Lenovo,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,64490
+48,ASUS,8,Intel Core i3 Processor,256 GB SSD,39.62,Windows 11,40990
+49,ASUS,8,Intel Core i3 Processor,512 GB SSD,35.56,Windows 11,38990
+50,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+51,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+52,HP,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,58990
+53,realme,8,"Intel Evo Core i5 Processor, Intel Core i5 Processor",512 GB SSD,35.56,Windows 10,59990
+54,acer,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 10,47990
+55,HP,8,AMD Ryzen 3 Quad Core Processor,512 GB SSD,39.62,Windows 11,37499
+56,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+57,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+58,ASUS,8,AMD Ryzen 9 Octa Core Processor,1 TB SSD,35.56,Windows 10,94990
+59,ASUS,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,32990
+60,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+61,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+62,ASUS,4,Intel Celeron Dual Core Processor,256 GB SSD,35.56,Windows 11,23990
+63,HP,16,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,35.56,Windows 11,48990
+64,APPLE,8,Apple M2 Processor,512 GB SSD,33.78,Mac OS,139990
+65,ASUS,16,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,89990
+66,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+67,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+68,ASUS,8,AMD Ryzen 5 Hexa Core Processor,1 TB SSD,39.62,Windows 11,59990
+69,DELL,16,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,70990
+70,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+71,Lenovo,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,44990
+72,Infinix,8,Intel Celeron Quad Core Processor,256 GB SSD,35.56,Windows 11,22990
+73,HP,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,46990
+74,ASUS,8,Intel Core i5 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 10,50990
+75,Infinix,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,28990
+76,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+77,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+78,MSI,16,Intel Core i7 Processor,512 GB SSD,39.62,Windows 10,84990
+79,APPLE,16,Apple M1 Pro Processor,512 GB SSD,36.07,Mac OS,181990
+80,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+81,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+82,MSI,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,109990
+83,SAMSUNG,4,Qualcomm Snapdragon 7c Gen 2 Processor,128 GB EMMC,35.56,Windows 11,32990
+84,Infinix,16,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,37990
+85,APPLE,8,Apple M2 Processor,512 GB SSD,34.54,Mac OS,139990
+86,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+87,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+88,Lenovo,4,Intel Core i3 Processor,256 GB SSD,39.62,Windows 11,29990
+89,Lenovo,4,Intel Celeron Dual Core Processor,64 GB EMMC,35.56,Chrome,19490
+90,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+91,Lenovo,8,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,73490
+92,ASUS,8,AMD Ryzen 5 Hexa Core Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 11,52990
+93,HP,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,41890
+94,DELL,8,Intel Pentium Silver Processor,256 GB SSD,39.62,Windows 11,30428
+95,acer,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,34990
+96,Lenovo,4,Intel Celeron Dual Core Processor,64 GB EMMC,35.56,Chrome,19490
+97,Lenovo,4,Intel Core i3 Processor,256 GB SSD,39.62,Windows 11,29990
+98,APPLE,8,Apple M1 Processor,256 GB SSD,33.78,Mac OS,88990
+99,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+100,MSI,8,Intel Core i7 Processor,512 GB SSD,39.62,Windows 10,65990
+101,ASUS,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,33490
+102,HP,16,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,60990
+103,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+104,HP,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,46990
+105,ASUS,16,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,59990
+106,MSI,16,Intel Core i7 Processor,1 TB SSD,39.62,Windows 10,114990
+107,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+108,ASUS,16,Intel Core i7 Processor,1 TB SSD,40.64,Windows 10,119990
+109,Infinix,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,42990
+110,ASUS,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,89990
+111,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+112,MSI,8,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,79990
+113,ASUS,8,Intel Core i5 Processor,1 TB SSD,39.62,Windows 11,70990
+114,Lenovo,8,Intel Core i3 Processor,256 GB SSD,39.62,Windows 11,33900
+115,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+116,realme,8,"Intel Evo Core i5 Processor, Intel Core i5 Processor",512 GB SSD,35.56,Windows 10,59990
+117,Infinix,16,Intel Core i7 Processor,512 GB SSD,39.62,Windows 11,52990
+118,APPLE,16,Apple M1 Processor,512 GB SSD,33.78,Mac OS,124990
+119,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+120,RedmiBook,8,Intel Core i3 Processor,256 GB SSD,39.62,Windows 11,31990
+121,acer,16,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,66990
+122,DELL,16,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,89081
+123,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+124,APPLE,8,Apple M1 Processor,512 GB SSD,33.78,Mac OS,104990
+125,Lenovo,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,53490
+126,ASUS,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,45990
+127,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+128,ASUS,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,45990
+129,MSI,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,51990
+130,HP,16,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,75990
+131,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+132,Lenovo,8,Intel Core i3 Processor,256 GB SSD,39.62,Windows 11,36990
+133,HP,16,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,78800
+134,HP,8,AMD Athlon Dual Core Processor,512 GB SSD,39.62,Windows 11,29390
+135,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+136,Infinix,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,30990
+137,Lenovo,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,62490
+138,ASUS,16,Intel Core i7 Processor,512 GB SSD,35.56,Windows 11,89990
+139,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+140,HP,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,58899
+141,MSI,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,85990
+142,DELL,8,AMD Ryzen 3 Dual Core Processor,1 TB HDD,88.9,Windows 11,33099
+143,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+144,Lenovo,8,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,73490
+145,Lenovo,8,Intel Core i5 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 11,63490
+146,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+147,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+148,ASUS,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,35.56,Windows 11,38990
+149,HP,8,Intel Core i5 Processor,512 GB SSD,40.89,Windows 11,67990
+150,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+151,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+152,HP,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39790
+153,APPLE,16,Apple M1 Pro Processor,1 TB SSD,41.15,Mac OS,241990
+154,APPLE,8,Apple M1 Processor,512 GB SSD,33.78,Mac OS,104990
+155,DELL,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,35.56,Windows 11,42190
+156,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+157,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+158,ASUS,8,Intel Core i3 Processor,512 GB SSD,35.56,Windows 11,39990
+159,ASUS,16,Intel Core i7 Processor,1 TB SSD,39.62,Windows 11,99990
+160,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+161,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+162,APPLE,32,Apple M1 Max Processor,1 TB SSD,41.15,Mac OS,309490
+163,ASUS,16,Intel Core i5 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 11,64990
+164,ASUS,16,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,89990
+165,ASUS,16,AMD Ryzen 7 Octa Core Processor,512 GB SSD,43.94,Windows 10,85990
+166,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+167,Lenovo,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,44990
+168,APPLE,16,Apple M1 Pro Processor,1 TB SSD,36.07,Mac OS,222990
+169,Ultimus,4,Intel Celeron Dual Core Processor,128 GB SSD,35.81,DOS,15990
+170,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+171,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+172,DELL,8,Intel OptaneIntel Core i3 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 11,45900
+173,ASUS,16,Intel Core i7 Processor,512 GB SSD,33.78,Windows 11,79990
+174,ASUS,8,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,56990
+175,DELL,8,AMD Ryzen 3 Dual Core Processor,256 GB SSD,39.62,Windows 11,34990
+176,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+177,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+178,DELL,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,43580
+179,Lenovo,16,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,33.78,Windows 10,74990
+180,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+181,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+182,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 10,37490
+183,Infinix,4,Intel Celeron Quad Core Processor,128 GB SSD,35.56,Windows 11,20990
+184,MSI,16,Intel Core i7 Processor,512 GB SSD,39.62,Windows 11,109990
+185,ASUS,16,Intel Core i5 Processor,512 GB SSD,33.78,Windows 11,71990
+186,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+187,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+188,Infinix,8,Intel Core i3 Processor,512 GB SSD,35.56,Windows 11,32990
+189,MSI,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,35.56,Windows 10,43990
+190,Lenovo,8,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,73490
+191,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+192,acer,8,AMD Ryzen 3 Dual Core Processor,256 GB SSD,35.56,Windows 11,25990
+193,ASUS,16,Intel Core i9 Processor,1 TB SSD,39.62,Windows 10,122990
+194,acer,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,68990
+195,acer,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,59990
+196,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+197,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+198,acer,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 10,39990
+199,ASUS,8,Intel Core i3 Processor,1 TB HDD,39.62,Windows 10,37990
+200,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+201,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+202,Lenovo,4,Intel Celeron Dual Core Processor,256 GB SSD,35.56,Windows 10,25950
+203,realme,16,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,64999
+204,HP,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,60990
+205,ASUS,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,36990
+206,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+207,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+208,SAMSUNG,8,Intel Core i5 Processor,256 GB SSD,39.62,Windows 11,59990
+209,APPLE,16,Apple M1 Pro Processor,512 GB SSD,41.15,Mac OS,222990
+210,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+211,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+212,DELL,16,Intel Core i9 Processor,1 TB SSD,39.62,Windows 11,235283
+213,DELL,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,38990
+214,ASUS,16,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,67990
+215,MSI,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,79990
+216,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+217,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+218,ASUS,16,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,67990
+219,MSI,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,79990
+220,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+221,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+222,ASUS,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,89990
+223,ASUS,32,Intel Core i9 Processor,1 TB SSD,40.64,Windows 11,241990
+224,ASUS,8,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,43490
+225,realme,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 10,46990
+226,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+227,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+228,Vaio,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 10,40990
+229,APPLE,8,Apple M1 Processor,256 GB SSD,33.78,Mac OS,94990
+230,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+231,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+232,MSI,16,Intel Core i7 Processor,1 TB SSD,39.62,Windows 10,114990
+233,APPLE,8,Apple M2 Processor,256 GB SSD,33.78,Mac OS,121990
+234,ASUS,8,Intel Core i3 Processor,1 TB HDD,39.62,Windows 10,37990
+235,ASUS,8,Intel Pentium Silver Processor,256 GB SSD,35.56,Windows 11,27990
+236,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+237,Lenovo,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,44990
+238,DELL,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,40190
+239,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,34990
+240,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+241,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+242,ASUS,16,Intel Core i7 Processor,1 TB SSD,35.56,Windows 10,94990
+243,Lenovo,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,69990
+244,ASUS,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,59990
+245,ASUS,16,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,66990
+246,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+247,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+248,ASUS,16,Intel Core i7 Processor,512 GB SSD,33.78,Windows 11,104990
+249,DELL,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,54900
+250,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+251,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+252,Lenovo,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,40.64,Windows 11,136990
+253,DELL,8,AMD Ryzen 5 Dual Core Processor,512 GB SSD,39.62,Windows 11,48184
+254,ASUS,16,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,74990
+255,acer,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,60990
+256,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+257,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+258,HP,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,35.56,Windows 11,49990
+259,DELL,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,67990
+260,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+261,Lenovo,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,44990
+262,Lenovo,8,Intel Core i5 Processor,512 GB SSD,35.56,Windows 10,58000
+263,Infinix,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,29990
+264,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,34.04,Windows 11,114990
+265,HP,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,33990
+266,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+267,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+268,ASUS,16,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,64990
+269,Lenovo,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,79990
+270,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+271,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+272,Infinix,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,28990
+273,ASUS,8,AMD Ryzen 5 Dual Core Processor,512 GB SSD,39.62,Windows 11,56990
+274,HP,16,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,33.78,Windows 11,81990
+275,MSI,16,Intel Core i7 Processor,1 TB SSD,39.62,Windows 10,129990
+276,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+277,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+278,DELL,8,AMD Ryzen 3 Dual Core Processor,1 TB HDD,39.62,Windows 10,38990
+279,HP,16,AMD Ryzen 7 Octa Core Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 10,79990
+280,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+281,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+282,APPLE,8,Apple M2 Processor,512 GB SSD,34.54,Mac OS,139990
+283,ASUS,16,Intel Core i7 Processor,1 TB SSD,43.94,Windows 11,109990
+284,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,154990
+285,Lenovo,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,62990
+286,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+287,Lenovo,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,44990
+288,ASUS,8,Intel Core i3 Processor,512 GB SSD,35.56,Windows 11,47990
+289,DELL,8,AMD Ryzen 3 Quad Core Processor,512 GB SSD,39.62,Windows 11,43667
+290,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,135990
+291,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+292,ASUS,16,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,98990
+293,Infinix,16,Intel Core i7 Processor,512 GB SSD,35.56,Windows 11,46990
+294,ASUS,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,35990
+295,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+296,ASUS,16,Intel Core i7 Processor,1 TB SSD,43.94,Windows 11,109990
+297,APPLE,8,Apple M2 Processor,512 GB SSD,34.54,Mac OS,139990
+298,DELL,8,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,74770
+299,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+300,HP,8,AMD Ryzen 3 Quad Core Processor,512 GB SSD,35.56,Windows 11,40799
+301,ASUS,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 10,69490
+302,ASUS,8,Intel Core i3 Processor,512 GB SSD,35.56,Windows 11,39990
+303,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+304,ASUS,16,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,33.78,Windows 11,99990
+305,APPLE,16,Apple M1 Pro Processor,1 TB SSD,41.15,Mac OS,241990
+306,acer,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,40990
+307,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+308,HP,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 10,60390
+309,HP,8,Intel Core i5 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 10,69990
+310,ASUS,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,44990
+311,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+312,ASUS,8,Intel Core i5 Processor,256 GB SSD,39.62,Windows 11,44990
+313,HP,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 10,60390
+314,ASUS,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 10,69490
+315,HP,8,AMD Ryzen 3 Quad Core Processor,512 GB SSD,35.56,Windows 11,40799
+316,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+317,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+318,HP,16,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,55990
+319,Lenovo,16,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,74990
+320,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+321,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+322,HP,8,Intel Core i5 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 10,69990
+323,ASUS,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,44990
+324,ASUS,8,Intel Core i5 Processor,1 TB SSD,39.62,Windows 11,59990
+325,APPLE,16,Apple M1 Pro Processor,512 GB SSD,41.15,Mac OS,222990
+326,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+327,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+328,DELL,8,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,74770
+329,ASUS,16,Intel Core i7 Processor,1 TB SSD,43.94,Windows 11,109990
+330,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+331,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+332,acer,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,62990
+333,acer,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,40990
+334,MSI,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 10,58499
+335,Lenovo,8,Intel Core i5 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 10,65990
+336,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+337,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+338,DELL,16,Intel Core i7 Processor,512 GB SSD,39.62,Windows 11,111990
+339,Lenovo,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,68490
+340,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+341,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+342,Infinix,16,Intel Core i7 Processor,512 GB SSD,35.56,Windows 11,46990
+343,ASUS,8,Intel Core i5 Processor,1 TB HDD,35.56,Windows 10,83990
+344,acer,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,54990
+345,ASUS,4,Intel Celeron Dual Core Processor,32 GB EMMC,29.46,Chrome,14990
+346,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+347,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+348,APPLE,8,Apple M1 Processor,1 TB SSD,33.78,Mac OS,149990
+349,DELL,8,Intel Core i5 Processor,512 GB SSD,88.9,Windows 10,63090
+350,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+351,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+352,MSI,16,Intel Core i7 Processor,1 TB SSD,39.62,Windows 11,200000
+353,Lenovo,8,Intel Core i3 Processor,256 GB SSD,39.62,Windows 11,37390
+354,ASUS,8,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,63990
+355,DELL,8,Intel Core i3 Processor,512 GB SSD,35.56,Windows 10,43090
+356,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+357,Lenovo,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,44990
+358,Lenovo,4,Intel Core i3 Processor,256 GB SSD,39.62,Windows 10,44700
+359,HP,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 10,41150
+360,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+361,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+362,ASUS,8,AMD Ryzen 3 Dual Core Processor,256 GB SSD,39.62,Windows 11,33990
+363,MSI,16,Intel Core i7 Processor,1 TB SSD,43.94,Windows 11,190890
+364,ASUS,16,Intel Core i9 Processor,1 TB SSD,34.04,Windows 11,174990
+365,HP,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,40.89,Windows 11,118990
+366,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+367,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+368,ASUS,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,63980
+369,acer,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,54300
+370,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+371,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+372,DELL,8,AMD Ryzen 3 Dual Core Processor,256 GB SSD,39.62,Windows 11,36400
+373,ASUS,4,Intel Core i3 Processor,256 GB SSD,39.62,Windows 10,28590
+374,DELL,16,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,40.64,Windows 11,69999
+375,ASUS,32,Intel Core i9 Processor,1 TB SSD,39.62,Windows 11,301990
+376,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+377,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+378,Lenovo,8,Intel Core i3 Processor,256 GB SSD,38.1,Windows 11,37000
+379,Lenovo,16,Intel Core i5 Processor,512 GB SSD,33.02,Windows 10,64990
+380,Lenovo,8,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,73490
+381,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+382,DELL,8,Intel Core i3 Processor,256 GB SSD,38.0,Windows 11,42690
+383,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,140990
+384,Lenovo,4,Intel Core i3 Processor,256 GB SSD,38.1,Windows 10,38990
+385,HP,16,Intel Core i7 Processor,512 GB SSD,34.29,Windows 11,128990
+386,acer,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,54999
+387,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+388,acer,8,Intel Core i5 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 10,60130
+389,acer,8,Intel Pentium Silver Processor,256 GB SSD,35.56,Windows 11,29490
+390,DELL,8,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,72490
+391,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+392,GIGABYTE,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,73990
+393,acer,8,Intel Core i5 Processor,1 TB HDD,39.62,Windows 10,47130
+394,Lenovo,8,AMD Ryzen 7 Octa Core Processor,512 GB SSD,35.56,Windows 10,55600
+395,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+396,DELL,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,35.56,Windows 10,49690
+397,ASUS,32,Intel Core i7 Processor,1 TB SSD,40.64,Windows 11,239990
+398,MSI,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 10,73990
+399,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+400,HP,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,35.56,Windows 10,52490
+401,HP,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,41990
+402,ASUS,8,Intel Pentium Quad Core Processor,256 GB SSD,35.56,Windows 11,29990
+403,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+404,Nokia,8,Intel Core i5 Processor,512 GB SSD,35.56,Windows 10,50490
+405,acer,16,Intel Core i7 Processor,"1 TB HDD, 512 GB SSD",39.62,Windows 10,96490
+406,Infinix,16,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,37990
+407,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+408,MSI,16,Intel Core i5 Processor,512 GB SSD,35.56,Windows 10,74990
+409,ASUS,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 10,51990
+410,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+411,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+412,ASUS,8,AMD Ryzen 5 Hexa Core Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 10,71345
+413,ASUS,16,Intel Core i7 Processor,1 TB SSD,39.62,Windows 10,101490
+414,MSI,32,Intel Core i7 Processor,1 TB SSD,39.62,Windows 11,274990
+415,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,199990
+416,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+417,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+418,DELL,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 10,41090
+419,Lenovo,8,Intel Core i5 Processor,256 GB SSD,39.62,Windows 10,50499
+420,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+421,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+422,HP,8,AMD Ryzen 7 Octa Core Processor,512 GB SSD,40.89,Windows 11,78950
+423,Lenovo,16,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,35.56,Windows 11,67990
+424,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,187990
+425,Lenovo,16,Intel Core i7 Processor,1 TB SSD,35.56,Windows 10,102990
+426,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+427,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+428,ASUS,4,Intel Core i3 Processor,256 GB SSD,39.62,DOS,35990
+429,HP,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 10,52575
+430,Lenovo,8,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,73490
+431,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+432,DELL,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,50990
+433,Lenovo,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 10,60125
+434,Lenovo,4,Intel Celeron Dual Core Processor,256 GB SSD,29.46,Windows 10,26490
+435,HP,8,AMD Ryzen 7 Octa Core Processor,512 GB SSD,40.89,Windows 11,80249
+436,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+437,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+438,acer,8,Intel Core i5 Processor,"1 TB HDD, 128 GB SSD",39.62,Windows 10,129999
+439,ASUS,8,AMD Ryzen 7 Octa Core Processor,1 TB SSD,35.56,Windows 10,76990
+440,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+441,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+442,ASUS,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 10,36990
+443,MSI,16,Intel Core i7 Processor,512 GB SSD,39.62,Windows 10,107790
+444,DELL,16,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,75990
+445,ASUS,16,Intel Core i5 Processor,512 GB SSD,35.56,Windows 10,95990
+446,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+447,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+448,acer,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,61999
+449,HP,8,Intel Celeron Dual Core Processor,256 GB SSD,35.56,Windows 11,28990
+450,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+451,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+452,Lenovo,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 10,54990
+453,ASUS,16,Intel Core i7 Processor,512 GB SSD,39.62,Windows 11,56990
+454,ASUS,8,Intel Core i5 Processor,256 GB SSD,35.56,Windows 11,45990
+455,ASUS,8,Intel Core i3 Processor,512 GB SSD,35.81,Windows 11,38216
+456,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+457,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+458,MSI,8,Intel Core i7 Processor,512 GB SSD,39.62,Windows 11,79990
+459,DELL,4,Intel Core i3 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 10,43990
+460,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+461,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+462,HP,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,40.89,Windows 11,108250
+463,ASUS,4,Intel Core i3 Processor,1 TB HDD,39.62,Windows 10,28990
+464,MSI,32,Intel Core i9 Processor,2 TB SSD,43.94,Windows 11,389990
+465,DELL,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,67224
+466,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+467,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+468,acer,16,AMD Ryzen 7 Octa Core Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 10,114990
+469,ASUS,4,Intel Core i5 Processor,1 TB HDD,35.56,Windows 10,61249
+470,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+471,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+472,HP,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,69990
+473,Lenovo,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,35.56,DOS,69990
+474,Lenovo,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,79990
+475,Lenovo,8,AMD Ryzen 3 Dual Core Processor,256 GB SSD,39.62,Windows 10,37990
+476,Lenovo,8,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,73490
+477,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+478,Infinix,8,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,36990
+479,ASUS,4,Intel Celeron Dual Core Processor,128 GB SSD,29.46,Windows 11,29980
+480,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+481,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+482,ASUS,16,Intel Core i5 Processor,512 GB SSD,35.56,Windows 10,95990
+483,DELL,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,41600
+484,DELL,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,67224
+485,ASUS,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,61986
+486,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+487,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+488,ASUS,4,Intel Core i5 Processor,1 TB HDD,35.56,Windows 10,61249
+489,HP,8,AMD Ryzen 3 Dual Core Processor,256 GB SSD,39.62,Windows 11,38999
+490,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+491,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+492,Lenovo,4,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,31990
+493,Lenovo,8,AMD Ryzen 3 Dual Core Processor,256 GB SSD,39.62,Windows 10,37990
+494,ASUS,4,Intel Celeron Dual Core Processor,128 GB SSD,29.46,Windows 11,29980
+495,ASUS,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,46990
+496,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+497,Lenovo,8,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,73490
+498,Infinix,8,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,37990
+499,Infinix,8,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,36990
+500,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+501,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+502,acer,8,AMD Ryzen 5 Hexa Core Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 10,61490
+503,HP,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 10,109990
+504,HP,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,54990
+505,Lenovo,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,35.56,Windows 10,50990
+506,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+507,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+508,MSI,8,Intel Core i5 Processor,1 TB HDD,39.62,Windows 10,62190
+509,ASUS,4,Intel Celeron Dual Core Processor,64 GB EMMC,39.62,Chrome,24390
+510,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+511,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+512,Lenovo,8,Intel Core i3 Processor,1 TB HDD,39.62,Windows 11,36990
+513,HP,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 10,159990
+514,ASUS,4,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,34490
+515,ASUS,16,AMD Ryzen 9 Octa Core Processor,512 GB SSD,42.16,Windows 11,99990
+516,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+517,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+518,ASUS,8,Intel Core i5 Processor,512 GB SSD,33.78,Windows 11,79990
+519,Infinix,4,Intel Celeron Quad Core Processor,128 GB SSD,35.56,Windows 11,20990
+520,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+521,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+522,HP,8,Intel Core i3 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 11,41490
+523,DELL,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,206581
+524,ASUS,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,59990
+525,acer,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,62990
+526,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+527,Lenovo,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,44990
+528,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+529,ASUS,8,AMD Ryzen 5 Hexa Core Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 10,62990
+530,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+531,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+532,Lenovo,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 10,61990
+533,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,105990
+534,acer,16,Intel Core i7 Processor,1 TB SSD,39.62,Windows 11,155490
+535,Ultimus,4,Intel Celeron Dual Core Processor,128 GB SSD,35.81,Windows 11,19990
+536,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+537,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+538,Lenovo,4,Intel Core i3 Processor,1 TB HDD,39.62,Windows 10,33499
+539,Infinix,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,42990
+540,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+541,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+542,HP,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,63990
+543,acer,16,Intel Core i9 Processor,1 TB SSD,39.62,Windows 11,124990
+544,ASUS,4,Intel Celeron Dual Core Processor,64 GB EMMC,29.46,Windows 11,21990
+545,Lenovo,4,Intel Celeron Dual Core Processor,256 GB SSD,35.56,Windows 10,30100
+546,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+547,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+548,HP,32,Intel Core i7 Processor,1 TB SSD,43.94,Windows 11,199990
+549,acer,8,Intel Core i5 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 11,61130
+550,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+551,Lenovo,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,44990
+552,Lenovo,8,Intel Core i3 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 11,40990
+553,ASUS,8,Intel Core i5 Processor,1 TB SSD,39.62,Windows 10,75990
+554,HP,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,46890
+555,Lenovo,8,Intel Core i3 Processor,256 GB SSD,39.62,Windows 11,37390
+556,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+557,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+558,Lenovo,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,68490
+559,ASUS,4,Intel Celeron Dual Core Processor,64 GB EMMC,29.46,Windows 11,19990
+560,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+561,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+562,ASUS,16,Intel Core i7 Processor,512 GB SSD,35.56,Windows 11,89990
+563,DELL,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,59790
+564,MSI,16,Intel Core i9 Processor,1 TB SSD,39.62,Windows 11,125990
+565,ASUS,32,AMD Ryzen 7 Octa Core Processor,2 TB SSD,40.64,Windows 11,249990
+566,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+567,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+568,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,149990
+569,DELL,8,Intel Pentium Quad Core Processor,256 GB SSD,39.62,Windows 11,36990
+570,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+571,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+572,ASUS,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 10,85990
+573,HP,8,AMD Ryzen 7 Octa Core Processor,512 GB SSD,35.56,Windows 10,60990
+574,DELL,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,87900
+575,Lenovo,4,AMD Dual Core Processor,1 TB HDD,39.62,Windows 10,27490
+576,DELL,8,Intel Pentium Quad Core Processor,256 GB SSD,39.62,Windows 11,36990
+577,ASUS,32,AMD Ryzen 7 Octa Core Processor,2 TB SSD,40.64,Windows 11,249990
+578,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,149990
+579,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+580,HP,8,AMD Ryzen 3 Dual Core Processor,1 TB HDD,35.56,Windows 11,28999
+581,DELL,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,87900
+582,acer,16,Intel Core i7 Processor,"1 TB HDD, 512 GB SSD",39.62,Windows 10,117990
+583,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+584,ASUS,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 10,85990
+585,DELL,8,Intel Core i5 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 11,61497
+586,HP,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,40.89,Windows 11,70400
+587,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+588,Lenovo,16,Intel Core i5 Processor,512 GB SSD,35.56,Windows 10,69000
+589,Lenovo,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,64490
+590,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,149990
+591,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+592,HP,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,40.89,Windows 11,96579
+593,DELL,16,Intel Core i7 Processor,512 GB SSD,39.62,Windows 11,101990
+594,ASUS,16,Intel Core i7 Processor,512 GB SSD,35.56,Windows 11,89990
+595,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+596,HP,8,AMD Ryzen 7 Octa Core Processor,512 GB SSD,40.89,Windows 11,94990
+597,MSI,32,Intel Core i7 Processor,2 TB SSD,43.94,Windows 11,314990
+598,DELL,8,Intel Core i3 Processor,"1 TB HDD, 256 GB SSD",38.1,Windows 11,46900
+599,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+600,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+601,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+602,ASUS,32,Intel Core i9 Processor,2 TB SSD,40.64,Windows 11,331990
+603,DELL,16,Intel Core i7 Processor,1 TB SSD,39.62,Windows 11,116490
+604,HP,8,AMD Ryzen 3 Hexa Core Processor,512 GB SSD,39.62,Windows 10,64590
+605,DELL,16,Intel Core i7 Processor,1 TB SSD,39.62,Windows 11,137990
+606,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+607,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+608,DELL,8,Intel Core i5 Processor,512 GB SSD,35.56,Windows 10,55690
+609,Lenovo,16,Intel Core i7 Processor,512 GB SSD,39.62,Windows 10,109990
+610,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+611,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+612,ASUS,8,Intel Core i7 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 10,79990
+613,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,40.64,Windows 11,130500
+614,ASUS,32,AMD Ryzen 9 Octa Core Processor,2 TB SSD,40.64,Windows 11,361990
+615,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,40.64,Windows 11,211990
+616,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+617,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+618,DELL,4,Intel Core i3 Processor,256 GB SSD,38.1,Windows 10,39890
+619,MSI,16,Intel Core i7 Processor,1 TB SSD,39.62,Windows 11,139990
+620,Lenovo,8,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,73490
+621,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+622,MSI,16,Intel Core i7 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 10,99990
+623,HP,16,Intel Core i5 Processor,512 GB SSD,35.56,Windows 10,66700
+624,DELL,8,Intel Core i5 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 10,68990
+625,DELL,32,Intel Core i9 Processor,1 TB SSD,43.94,Windows 11,434830
+626,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+627,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+628,ALIENWARE,32,Intel Core i9 Processor,1 TB SSD,39.62,Windows 10,345390
+629,HP,16,Intel Core i7 Processor,512 GB SSD,39.62,Windows 11,105822
+630,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+631,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+632,Lenovo,4,Intel Celeron Dual Core Processor,128 GB EMMC,29.46,Chrome,28490
+633,Lenovo,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 10,66990
+634,acer,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,86999
+635,ASUS,8,Intel Core i3 Processor,256 GB SSD,39.62,Windows 10,36990
+636,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+637,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+638,Lenovo,4,Intel Celeron Dual Core Processor,256 GB SSD,29.46,Windows 11,23250
+639,DELL,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 10,42390
+640,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+641,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+642,Lenovo,8,Intel Core i5 Processor,512 GB SSD,35.56,Windows 10,58990
+643,ASUS,16,Intel Core i7 Processor,1 TB SSD,39.62,Windows 10,110990
+644,acer,8,Intel Core i5 Processor,"1 TB HDD, 128 GB SSD",39.62,Windows 10,74590
+645,DELL,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,71990
+646,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+647,Lenovo,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 11,44990
+648,Lenovo,16,Intel Core i5 Processor,512 GB SSD,35.56,Windows 10,84990
+649,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,33.78,Windows 11,119990
+650,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+651,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+652,MSI,32,Intel Core i7 Processor,1 TB SSD,39.62,Windows 10,214990
+653,MSI,8,Intel Core i3 Processor,512 GB SSD,35.56,Windows 10,48790
+654,DELL,16,AMD Ryzen 7 Octa Core Processor,512 GB SSD,40.64,Windows 11,76000
+655,ASUS,32,AMD Ryzen 9 Octa Core Processor,1 TB SSD,34.04,Windows 10,224990
+656,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+657,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+658,Infinix,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,49990
+659,ASUS,16,Intel Core i7 Processor,512 GB SSD,34.04,Windows 11,164990
+660,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+661,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+662,HP,8,AMD Ryzen 3 Dual Core Processor,256 GB SSD,39.62,Windows 11,31490
+663,DELL,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,48077
+664,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 10,154990
+665,ASUS,32,Intel Core i7 Processor,1 TB SSD,39.62,Windows 10,224990
+666,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+667,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+668,ASUS,8,Intel Core i5 Processor,1 TB HDD,39.62,Windows 10,44990
+669,ASUS,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 10,65990
+670,Lenovo,8,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,73490
+671,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+672,ASUS,8,Intel Core i3 Processor,1 TB HDD,35.81,Windows 10,31990
+673,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 10,38980
+674,HP,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 10,68990
+675,DELL,8,Intel Core i3 Processor,256 GB SSD,39.62,Windows 10,43090
+676,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+677,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+678,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 10,154990
+679,ASUS,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 10,65990
+680,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+681,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+682,DELL,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,49348
+683,DELL,16,Intel Core i7 Processor,512 GB SSD,39.62,Windows 11,221774
+684,Lenovo,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,39.62,Windows 10,73990
+685,DELL,16,AMD Ryzen 7 Octa Core Processor,512 GB SSD,40.64,Windows 11,77990
+686,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+687,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+688,ALIENWARE,16,Intel Core i7 Processor,1 TB SSD,39.62,Windows 10,214790
+689,ALIENWARE,16,Intel Core i7 Processor,512 GB SSD,39.62,Windows 10,199990
+690,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+691,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+692,DELL,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,48077
+693,DELL,8,AMD Ryzen 5 Hexa Core Processor,512 GB SSD,35.56,Windows 11,52414
+694,ASUS,16,Intel Core i7 Processor,1 TB SSD,40.64,Windows 11,179990
+695,ASUS,4,Intel Celeron Dual Core Processor,64 GB EMMC,35.56,Chrome,25990
+696,Lenovo,8,Intel Core i3 Processor,256 GB SSD,35.56,Windows 11,36990
+697,Lenovo,8,Intel Core i3 Processor,512 GB SSD,39.62,Windows 11,39990
+698,DELL,16,Intel Core i5 Processor,512 GB SSD,35.56,Windows 11,80615
+699,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,155990
+700,RedmiBook,8,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,39990
+701,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,196990
+702,Infinix,16,Intel Core i7 Processor,512 GB SSD,35.56,Windows 11,49990
+703,Lenovo,16,Intel Core i7 Processor,1 TB SSD,40.64,Windows 11,157990
+704,ASUS,16,Intel Core i5 Processor,512 GB SSD,39.62,Windows 11,92990
+705,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,40.64,Windows 11,171990
+706,Lenovo,8,AMD Ryzen 5 Quad Core Processor,512 GB SSD,39.62,Windows 11,38705
+707,ASUS,16,AMD Ryzen 7 Octa Core Processor,1 TB SSD,39.62,Windows 11,85990
+708,ASUS,8,Intel Core i5 Processor,1 TB HDD,39.62,Windows 10,44990
+709,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,34.04,Windows 11,151990
+710,Lenovo,8,AMD Ryzen 3 Dual Core Processor,512 GB SSD,39.62,Windows 11,35590
+711,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,150990
+712,ASUS,16,Intel Core i7 Processor,2 TB SSD,35.56,Windows 10,233990
+713,DELL,16,Intel Core i5 Processor,512 GB SSD,33.78,Windows 11,76590
+714,HP,16,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 10,90000
+715,ASUS,4,Intel Celeron Dual Core Processor,64 GB EMMC,29.46,Chrome,23490
+716,Lenovo,8,AMD Ryzen 7 Octa Core Processor,512 GB SSD,39.62,Windows 11,73490
+717,ASUS,16,AMD Ryzen 9 Octa Core Processor,1 TB SSD,39.62,Windows 11,194990
+718,ASUS,16,Intel Core i7 Processor,512 GB SSD,35.56,Windows 11,125990
+719,Lenovo,8,Intel Core i5 Processor,"1 TB HDD, 256 GB SSD",39.62,Windows 10,50990
